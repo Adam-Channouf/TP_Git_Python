@@ -13,7 +13,7 @@
 
 ## Comment exécuter le programme
 1. Ouvrir le dossier `TP_Git_Python` dans Visual Studio Code, puis cliquer sur `main.py`.
-2. Cliquer sur le bouton ▶ **Run Python File** en haut à droite de l'éditeur (et sélectionner l'interpréteur Python si nécessaire).
+2. Cliquer sur le bouton  **Run Python File** en haut à droite de l'éditeur (et sélectionner l'interpréteur Python si nécessaire).
 3. Dans le terminal intégré qui s'ouvre, saisir le prénom, la matière et la durée en minutes en validant chaque réponse avec la touche **Entrée**.
 
 ## Commandes Git utilisées
